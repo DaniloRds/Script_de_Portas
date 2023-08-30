@@ -1,0 +1,11 @@
+Olá!
+Antes de tudo quero agradecer por fazer o download de um dos nossos scripts personalizados, obrigado s2
+
+Bom, para instalar é bem simples, sua base deve ter algum script que se chama vrp_sounds ou tem alguma nomeclatura parecida.
+Basta achar esse script e abrir as pastas dele até achar vários arquivos de som .ogg, quando achar basta copiar e colar esse arquivo de som lá e prontinho.
+
+
+!!
+Caso não funcione, abra o skywalker.lua do script vrp_doors e procura por TriggerClientEvent("vrp_sound:source",source,'unity_doors',0.5)
+Depois abra o seu script de som na parte client e confere se o evento tem o mesmo nome de vrp_sound:source, se não tiver você volta no script de portas
+no código acima e muda o vrp_sound:source pro evento que tem no seu script de som. (Espero que não tenha ficado confuso)
