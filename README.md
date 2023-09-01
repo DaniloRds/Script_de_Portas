@@ -8,6 +8,10 @@
 
 - Você não é a obrigado a utilizar os dois scripts, você pode utilizar somente um dos dois se preferir.
 
+- Para abrir o doorsloocktool você precisa configurar sua steam hex em `config.lua`.
+![image](https://github.com/DaniloRds/Script_de_Portas/assets/77410497/b6d3c7d9-a75b-4c42-85f9-2dbb952ab15c)
+
+
 ## Link para ver o vídeo do script
 - https://youtu.be/wSrAXOFw1ng
 
